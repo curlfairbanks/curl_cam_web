@@ -32,12 +32,12 @@ use Cake\View\Exception\MissingTemplateException;
 class CamerasController extends AppController
 {
 		private $pi_list = [
-				"sheet_1" => "192.168.227.277",
-				"sheet_2" => "192.168.227.277",
-				"sheet_3" => "192.168.227.277",
-				"sheet_4" => "192.168.227.277",
-				"sheet_5" => "192.168.227.277",
-				"sheet_6" => "192.168.227.277"
+				"sheet_1" => "192.168.227.107",
+				"sheet_2" => "192.168.227.108",
+				"sheet_3" => "192.168.227.109",
+				"sheet_4" => "192.168.227.106",
+				"sheet_5" => "192.168.227.105",
+				"sheet_6" => "192.168.227.104"
 			];
 			
 		public function index()
